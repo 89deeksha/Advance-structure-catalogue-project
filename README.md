@@ -9,6 +9,7 @@ This project is a responsive web application that displays a dynamic multi-categ
 -Tailwind css
 -npm
 -navigation:react-router-dom
+-Github, Git
 
 ## 🎯bjective
 The goal of this project is to dynamically render product categories and their items while handling different property structures for each category using a flexible UI.
