@@ -19,7 +19,8 @@ The goal of this project is to dynamically render product categories and their i
 2.Created reusable components for category and item cards
 3.Implemented routing for navigation between Home and Detail pages
 4.Used dynamic mapping to render item properties from itemprops
-5.Ensured responsiveness using CSS / Material UI
+5.It takes 3-4hr max while creating whole system
+6.Ensured responsiveness using CSS / Material UI
 
 ## 🚀 Features
 -App.jsx- This is the main file where whole project is running. This contain routeing of pages
